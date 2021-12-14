@@ -5,7 +5,7 @@ import styles from "../styles/Home.module.css";
 import Container from "@mui/material/Container";
 
 //import Core Components
-import AppLayout from "../components/AppLayout";
+import AppLayout from "../src/components/AppLayout";
 
 export default function Card() {
   return (
